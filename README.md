@@ -4,9 +4,25 @@
 
 <p align="left">Hi, my name is Nicholas Ahlman! As a skilled developer, I've had the pleasure of working on various projects that have honed my expertise in React, SQL data handling, e-commerce website development, secure authentication, web design, and creating engaging games with HTML, CSS, and JavaScript. I am truly excited about the opportunity to contribute my skills and collaborate with a team, bringing innovative solutions to life. Continuously developing my skills is a passion of mine, and I can't wait to embark on new challenges and create exceptional web experiences together! Let's build something amazing!</p>
 
+- 📝 My Projects
+<h2>El Charro</h2>
+<p>Description: This project showcases dynamic React-based interfaces with CSS and JavaScript. Effective state management techniques ensure visually appealing and responsive designs. Collaboration with clients ensures personalized websites, while adhering to web standards for optimal performance.</p>
+<p>link: https://elcharromexicanfood.netlify.app/</p>
+<h2>Furnishing & Co.</h2>
+<p>Description: Developed a robust e-commerce website using React, Express, Node.js, and PostgreSQL, providing a seamless user experience and efficient handling of large datasets. Secure authentication and authorization mechanisms were implemented to ensure user data privacy and safeguard against security threats. The database schema was designed and optimized using PostgreSQL, enabling efficient data retrieval for enhanced website speed and responsiveness. Furthermore, the project showcases proficient utilization of APIs to facilitate smooth communication between the front-end and back-end, enhancing the overall functionality of the website.</p>
+<p>link: [https://elcharromexicanfood.netlify.app/](https://still-tree-1700.fly.dev/)</p>
+<h2>Fitmate</h2>
+<p>Designed a fitness application with user login functionality, allowing users to post their fitness regimens and view regimens shared by others. The database was managed using SQL queries for seamless data retrieval and execution of functions. The site was developed using CSS, JavaScript, React, and PostgreSQL, ensuring an engaging and interactive user experience.</p>
+<p>link: https://fitmate-app.netlify.app/</p>
+<h2>Tic-Tac-Toe</h2>
+<p>Built a Tic-Tac-Toe game using HTML, CSS, and JavaScript, incorporating game logic to manage the player's and computer's turns with event listeners and random number generation. Functions were created to check winning conditions for rows, columns, and diagonals, updating the winning statement and game state accordingly for a complete and enjoyable gaming experience.</p>
+<p>link: https://tictactoe1122.netlify.app/</p>
+
+
+
 - 🔭 I’m currently working on **an e-commerce website for Global Object Company**
 
-- 👨‍💻 All of my projects are available at [nicholasahlman.netlify.app](nicholasahlman.netlify.app)
+- 👨‍💻 My personal page is available at [nicholasahlman.netlify.app](nicholasahlman.netlify.app)
 
 - 💬 Ask me about **React**
 
