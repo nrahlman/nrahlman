@@ -10,7 +10,7 @@
 <p>link: https://elcharromexicanfood.netlify.app/</p>
 <h2>Furnishing & Co.</h2>
 <p>Description: Developed a robust e-commerce website using React, Express, Node.js, and PostgreSQL, providing a seamless user experience and efficient handling of large datasets. Secure authentication and authorization mechanisms were implemented to ensure user data privacy and safeguard against security threats. The database schema was designed and optimized using PostgreSQL, enabling efficient data retrieval for enhanced website speed and responsiveness. Furthermore, the project showcases proficient utilization of APIs to facilitate smooth communication between the front-end and back-end, enhancing the overall functionality of the website.</p>
-<p>link: [https://elcharromexicanfood.netlify.app/](https://still-tree-1700.fly.dev/)</p>
+<p>link: https://still-tree-1700.fly.dev/</p>
 <h2>Fitmate</h2>
 <p>Designed a fitness application with user login functionality, allowing users to post their fitness regimens and view regimens shared by others. The database was managed using SQL queries for seamless data retrieval and execution of functions. The site was developed using CSS, JavaScript, React, and PostgreSQL, ensuring an engaging and interactive user experience.</p>
 <p>link: https://fitmate-app.netlify.app/</p>
